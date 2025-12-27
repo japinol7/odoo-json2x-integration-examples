@@ -1,0 +1,1 @@
+git+https://github.com/japinol7/odoo-json2x.git@v0.0.1

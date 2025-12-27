@@ -1,0 +1,12 @@
+[project]
+name = "odoo-json2x-integration-examples"
+version = "0.0.2"
+description = "odoo-json2x-integration-examples"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "odoo-json2x",
+]
+
+[tool.uv.sources]
+odoo-json2x = { git = "https://github.com/japinol7/odoo-json2x.git", rev = "v0.0.1" }
