@@ -72,7 +72,7 @@ wheels = [
 [[package]]
 name = "odoo-json2x"
 version = "0.0.1"
-source = { git = "https://github.com/japinol7/odoo-json2x.git?rev=v0.0.1#2084082794fd9ad7c9f889366ab93449213a9624" }
+source = { git = "https://github.com/japinol7/odoo-json2x.git?rev=v0.0.1#7f8548b8c4ec6fcfd17912564b45f30be77cbf48" }
 dependencies = [
     { name = "httpx" },
 ]
