@@ -27,7 +27,7 @@
 
 ### Implemented Odoo JSON-2 client added as a dependency
 * odoo-json2x
-  * Simple json-2 client using 'httpx' as the underlying transport.
+  * Simple json-2 client using 'httpx2' as the underlying transport.
   * odoo_client   -> Te odoo client with the API interface
   * simple_json2  -> The underlying json-2 client and connection.
 
