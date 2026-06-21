@@ -12,8 +12,8 @@
 <br>
 
 	Dependencies:
-      * git+https://github.com/japinol7/odoo-json2x.git@v0.0.1
-	Python requires: 3.13 or greater.
+      * git+https://github.com/japinol7/odoo-json2x.git@v0.0.2
+	Python requires: 3.14 or greater.
     Tested against Odoo 19.0 CE.
 <br>
 

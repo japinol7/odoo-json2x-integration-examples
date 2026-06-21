@@ -122,3 +122,4 @@ ENV/
 /db.sqlite3
 /identifier.sqlite
 /db.sqlite3-journal
+/uv.lock
