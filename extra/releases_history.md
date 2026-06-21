@@ -1,5 +1,11 @@
 # Release History
 
+## v0.0.3
+
+### New features and improvements:
+* Upgrade dependencies.
+
+
 ## v0.0.2
 
 ### New features and improvements:
